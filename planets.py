@@ -1,3 +1,8 @@
+# CPE 202 Lab 0
+# Prof Parkinson
+# Ethan Zimbelman
+
+
 def weight_on_planets():
     i = input("What do you weigh on earth? ")
     weight = float(i)
